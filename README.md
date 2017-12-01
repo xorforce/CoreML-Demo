@@ -1,17 +1,23 @@
 # CoreML-Demo
+<p align="center">
+<img src="https://user-images.githubusercontent.com/14857735/33497015-696fd346-d6f2-11e7-92f3-3e917ebce8a7.png">
+</p>
+
 ## What is does?
-This app demostrates the new framework for Machine Learning by Apple called CoreML. 
+This app demostrates the new framework for Machine Learning by Apple called CoreML  💪🏻. 
 <br><br>
-It basically determines dominant objects in the scene from thousands of categories such as people, trees, vehicles etc.<br>
+It basically determines dominant objects in the scene from thousands of categories such as  :man:,  :deciduous_tree:,  :red_car: etc.<br>
 
-The app works simply by tapping to capture a photo, passing it through the CoreML model, and determining the object based on the confidence level.<br>
+The app works simply by tapping to capture a photo  :european_castle: , passing it through the CoreML model  :arrow_right:, and determining the object based on the confidence level  :thumbsup: .<br>
 
-Additionally, it also speaks up the object determined, with the idea of helping the blind or people with poor vision to determine things.<br>
+Additionally, it also speaks up  :speaker: the object determined, with the idea of helping the blind or people with poor vision to determine things .<br>
 
 The app uses a simple open source CoreML model called as [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 <br><br>
-Screenshots : 
-
+Screenshots : <br>
+![alt_text](https://user-images.githubusercontent.com/14857735/33497005-620c136c-d6f2-11e7-9b8c-1be907899b5e.PNG)
+![alt_text](https://user-images.githubusercontent.com/14857735/33497004-612665ec-d6f2-11e7-88d2-091d0c848780.PNG)
+![alt_text](https://user-images.githubusercontent.com/14857735/33497003-5fe2e034-d6f2-11e7-86c5-0b5f8be26504.PNG)
 <br>
 
 ## Author
