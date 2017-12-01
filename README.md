@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/14857735/33497015-696fd346-d6f2-11e7-92f3-3e917ebce8a7.png">
 </p>
 
-## What is does?
+## What it does?
 This app demostrates the new framework for Machine Learning by Apple called CoreML  💪🏻. 
 <br><br>
 It basically determines dominant objects in the scene from thousands of categories such as  :man:,  :deciduous_tree:,  :red_car: etc.<br>
